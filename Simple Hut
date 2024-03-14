@@ -16,7 +16,7 @@ line(200,100,250,180);
 line(200,100,370,100);
 line(370,100,420,180);
 setcolor(RED);
-outtextxy(10,20,"Name: Tanmay ");
+outtextxy(10,20,"Name: Sumit ");
 outtextxy(10,50,"Student ");
 getch();
 closegraph();
